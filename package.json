@@ -1,0 +1,19 @@
+{
+  "name": "b6ra2-atm-machine",
+  "version": "2.1.2",
+  "description": "",
+  "main": "main.js",
+  "bin" : "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
